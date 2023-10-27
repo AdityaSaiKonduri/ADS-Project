@@ -1,2 +1,3 @@
 # ADS-Project
-ADS project
+Applied Data Science Course project 
+MULTI CLASS IMAGE CLASSIFICATION
